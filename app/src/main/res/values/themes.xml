@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.BlubLauncher" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#17D9FF</item>
+        <item name="android:statusBarColor">#06142F</item>
+        <item name="android:navigationBarColor">#06142F</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
